@@ -2081,14 +2081,7 @@
   resolved "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"
   integrity sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==
 
-"@types/testing-library__jest-dom@^5.14.3":
-  version "5.14.3"
-  resolved "https://registry.yarnpkg.com/@types/testing-library__jest-dom/-/testing-library__jest-dom-5.14.3.tgz#ee6c7ffe9f8595882ee7bda8af33ae7b8789ef17"
-  integrity sha512-oKZe+Mf4ioWlMuzVBaXQ9WDnEm1+umLx0InILg+yvZVBBDmzV5KfZyLrCvadtWcx8+916jLmHafcmqqffl+iIw==
-  dependencies:
-    "@types/jest" "*"
-
-"@types/testing-library__jest-dom@^5.9.1":
+"@types/testing-library__jest-dom@^5.14.3", "@types/testing-library__jest-dom@^5.9.1":
   version "5.14.3"
   resolved "https://registry.npmjs.org/@types/testing-library__jest-dom/-/testing-library__jest-dom-5.14.3.tgz"
   integrity sha512-oKZe+Mf4ioWlMuzVBaXQ9WDnEm1+umLx0InILg+yvZVBBDmzV5KfZyLrCvadtWcx8+916jLmHafcmqqffl+iIw==
@@ -2206,10 +2199,10 @@
     "@typescript-eslint/types" "5.22.0"
     eslint-visitor-keys "^3.0.0"
 
-"@upleveled/eslint-config-upleveled@2.10.0":
-  version "2.10.0"
-  resolved "https://registry.npmjs.org/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-2.10.0.tgz"
-  integrity sha512-/rJnFslA5s88jB30ueMyxlc4wEVX/6qMiaaSS6y1smAc3GMmfwTq+TWZ/NW3sYT1KH2FTbmmmPcP6QBbrNyvdA==
+"@upleveled/eslint-config-upleveled@2.10.1":
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-2.10.1.tgz#05ab818b175de243e1564dafc8cc9d33430abcf6"
+  integrity sha512-X/2lIW+PdMHYUcXzYqqieAy1fFepPpM4nSJ/FujuRUVNKJg36sUbI2jl7VVcaYP1fR5yraB+HhfgOxrmEqDLkw==
 
 "@upleveled/eslint-plugin-upleveled@2.1.5":
   version "2.1.5"
