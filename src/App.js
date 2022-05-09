@@ -3,7 +3,7 @@
 import './App.css';
 import randomColor from 'randomcolor';
 import { useState } from 'react';
-import { css, jsx, Global } from '@emotion/react';
+import { css, Global } from '@emotion/react';
 
 function App() {
   const [color, setColor] = useState(randomColor.randomColor());
