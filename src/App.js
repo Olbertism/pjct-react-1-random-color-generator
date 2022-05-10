@@ -5,7 +5,7 @@ import randomColor from 'randomcolor';
 import { useState } from 'react';
 import { css, Global } from '@emotion/react';
 
-function App() {
+export default function App() {
   const [color, setColor] = useState(randomColor.randomColor());
   const [hue, setHue] = useState('');
   const [luminosity, setLuminosity] = useState('');
@@ -149,5 +149,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
