@@ -1,3 +1,18 @@
+# README
+
+Simple interface to create random colors. 
+
+Colors are output as hex code and in a colored div.
+
+You can select hue and luminosity by entering keywords.
+
+Dependency: https://github.com/davidmerfield/randomColor
+
+Supported keywords as per documentation of "randomcolor"
+
+# ---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
